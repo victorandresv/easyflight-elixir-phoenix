@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :easyflight_mvc_elixir_phoenix, EasyflightMvcElixirPhoenix.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "adminpass",
   hostname: "localhost",
   database: "easyflight_mvc_elixir_phoenix_dev",
   stacktrace: true,
